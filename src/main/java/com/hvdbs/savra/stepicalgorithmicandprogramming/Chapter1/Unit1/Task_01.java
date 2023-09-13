@@ -1,4 +1,4 @@
-package com.hvdbs.savra.stepicalgorithmicandprogramming.Part1.Unit1;
+package com.hvdbs.savra.stepicalgorithmicandprogramming.Chapter1.Unit1;
 
 import java.util.Scanner;
 
