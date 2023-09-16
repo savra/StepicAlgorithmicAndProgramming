@@ -31,3 +31,4 @@ https://stepik.org/course/64867/syllabus
         <a href = "https://github.com/savra/StepikAlgorithmicAndProgramming/blob/master/src/main/java/com/hvdbs/savra/stepikalgorithmicandprogramming/Chapter2/Unit2/Task_04.java">2.2.4</a>,
         <a href = "https://github.com/savra/StepikAlgorithmicAndProgramming/blob/master/src/main/java/com/hvdbs/savra/stepikalgorithmicandprogramming/Chapter2/Unit2/Task_05.java">2.2.5</a>,
         <a href = "https://github.com/savra/StepikAlgorithmicAndProgramming/blob/master/src/main/java/com/hvdbs/savra/stepikalgorithmicandprogramming/Chapter2/Unit2/Task_06.java">2.2.6</a>,
+        <a href = "https://github.com/savra/StepikAlgorithmicAndProgramming/blob/master/src/main/java/com/hvdbs/savra/stepikalgorithmicandprogramming/Chapter2/Unit2/Task_07.java">2.2.7</a>
