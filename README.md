@@ -41,9 +41,4 @@ https://stepik.org/course/64867/syllabus
         <a href = "https://github.com/savra/StepikAlgorithmicAndProgramming/blob/master/src/main/java/com/hvdbs/savra/stepikalgorithmicandprogramming/Chapter2/Unit3/Task_02.java">2.3.2</a>,
         <a href = "https://github.com/savra/StepikAlgorithmicAndProgramming/blob/master/src/main/java/com/hvdbs/savra/stepikalgorithmicandprogramming/Chapter2/Unit3/Task_03.java">2.3.3</a>,
         <a href = "https://github.com/savra/StepikAlgorithmicAndProgramming/blob/master/src/main/java/com/hvdbs/savra/stepikalgorithmicandprogramming/Chapter2/Unit3/Task_04.java">2.3.4</a>,
-        <a href = "https://github.com/savra/StepikAlgorithmicAndProgramming/blob/master/src/main/java/com/hvdbs/savra/stepikalgorithmicandprogramming/Chapter2/Unit3/Task_05.java">2.3.5</a>,
-        <a href = "https://github.com/savra/StepikAlgorithmicAndProgramming/blob/master/src/main/java/com/hvdbs/savra/stepikalgorithmicandprogramming/Chapter2/Unit3/Task_06.java">2.3.6</a>,
-        <a href = "https://github.com/savra/StepikAlgorithmicAndProgramming/blob/master/src/main/java/com/hvdbs/savra/stepikalgorithmicandprogramming/Chapter2/Unit3/Task_07.java">2.3.7</a>,
-        <a href = "https://github.com/savra/StepikAlgorithmicAndProgramming/blob/master/src/main/java/com/hvdbs/savra/stepikalgorithmicandprogramming/Chapter2/Unit3/Task_08.java">2.3.8</a>,
-        <a href = "https://github.com/savra/StepikAlgorithmicAndProgramming/blob/master/src/main/java/com/hvdbs/savra/stepikalgorithmicandprogramming/Chapter2/Unit3/Task_09.java">2.3.9</a>,
-        <a href = "https://github.com/savra/StepikAlgorithmicAndProgramming/blob/master/src/main/java/com/hvdbs/savra/stepikalgorithmicandprogramming/Chapter2/Unit3/Task_10.java">2.3.10</a>
+        <a href = "https://github.com/savra/StepikAlgorithmicAndProgramming/blob/master/src/main/java/com/hvdbs/savra/stepikalgorithmicandprogramming/Chapter2/Unit3/Task_05.java">2.3.5</a>
